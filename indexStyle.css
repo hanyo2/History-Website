@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+  }
+  
+  a {
+    color: red;
+  }
+
+  .page-description {
+    font-weight: bold; 
+  }
