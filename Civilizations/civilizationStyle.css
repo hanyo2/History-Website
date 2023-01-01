@@ -6,6 +6,17 @@
     color: red;
   }
 
+  a:hover {
+    color: blue; 
+  }
+
+  a.homeLink {
+    color: blue; 
+  }
+  
+  a.inlineLink {
+    color: blue; 
+  }
 
   img{
     height: 400px;

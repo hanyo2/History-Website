@@ -6,6 +6,10 @@
     color: red;
   }
 
+  a:hover {
+    color: blue; 
+  }
+
   .page-description {
     color: black; 
   }
