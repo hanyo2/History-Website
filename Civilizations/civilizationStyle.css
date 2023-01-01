@@ -18,6 +18,10 @@
     color: blue; 
   }
 
+  .paragraph {
+    color: grey
+  }
+
   img{
     height: 400px;
     border-radius: 10%;
