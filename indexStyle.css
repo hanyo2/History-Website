@@ -13,3 +13,19 @@
   .page-description {
     color: black; 
   }
+
+  .flexContainer {
+    display: flex; 
+    flex-direction: column; 
+    background: red;
+    height: 100px;
+  }
+  
+  /* this selector selects all divs inside of .flex-container */
+  .flexContainer div {
+    background: peachpuff;
+    border: 1px solid red;
+    height: 100px;
+    justify-content: left; 
+    /* flex: 1; */
+  }
